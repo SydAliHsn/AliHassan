@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SMAliHassan
+- 👋 Hi, I’m Syed M. Ali Hassan
 - 👀 I’m interested in Web dev and Cybersecurity
 - 🌱 I’m currently learning Cybersecurity and Penetration testing.
 - 💞️ I’m looking to collaborate on Web projects.
